@@ -1,4 +1,6 @@
 Gerador de Senhas
+<br>
+<br>
 Este é um simples gerador de senhas desenvolvido em HTML, CSS e JavaScript.
 
 Funcionalidades
